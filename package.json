@@ -1,0 +1,28 @@
+{
+  "name": "aaa-life-sdet-bdd",
+  "version": "1.0.0",
+  "description": "BDD Automation Framework with TestCafe (UI) and Cucumber (API)",
+  "private": true,
+  "scripts": {
+    "test:bdd:api": "cucumber-js bdd/api/features --require bdd/api/steps/**/*.js",
+    "test:bdd:api:smoke": "cucumber-js bdd/api/features --require bdd/api/steps/**/*.js --tags '@api and @smoke'",
+    "test:bdd:ui": "gherkin-testcafe \"edge\" bdd/ui/steps/**/*.js bdd/ui/features/**/*.feature --screenshots run-artifacts/screenshots --screenshots-on-fails",
+    "test:bdd:ui:smoke": "gherkin-testcafe \"edge\" bdd/ui/steps/**/*.js bdd/ui/features/**/*.feature --tags @smoke --screenshots run-artifacts/screenshots --screenshots-on-fails",
+    "test:ui:cucumber-json": "gherkin-testcafe \"edge\" bdd/ui/steps/**/*.js bdd/ui/features/**/*.feature --reporter cucumber-json:run-artifacts/cucumber-json/ui.json --screenshots run-artifacts/screenshots --screenshots-on-fails",
+    "report:ui:cucumber-html": "node ui-report.js",
+    "test:ui:report": "npm run test:ui:cucumber-json && node ui-report.js",
+    "test:smoke": "npm run test:bdd:api:smoke && npm run test:bdd:ui:smoke",
+    "test": "npm run test:bdd:api && npm run test:bdd:ui"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ajv": "^8.12.0",
+    "axios": "^1.6.7",
+    "chai": "^4.4.1",
+    "gherkin-testcafe": "7.4.0",
+    "multiple-cucumber-html-reporter": "^3.9.3",
+    "testcafe": "^3.6.0",
+    "testcafe-reporter-cucumber-json": "^0.1.2"
+  }
+}

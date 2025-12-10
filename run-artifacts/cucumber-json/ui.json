@@ -1,0 +1,246 @@
+[
+  {
+    "description": "Feature: SauceDemo checkout flow",
+    "elements": [
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario: Happy path – checkout single item",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario: Happy path – checkout single item",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario: Happy path – checkout single item",
+            "result": {
+              "duration": 4956,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario: Happy path – checkout single item</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Successful checkout with different customer data",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Successful checkout with different customer data",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Successful checkout with different customer data",
+            "result": {
+              "duration": 4153,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Successful checkout with different customer data</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Successful checkout with different customer data",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Successful checkout with different customer data",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Successful checkout with different customer data",
+            "result": {
+              "duration": 4049,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Successful checkout with different customer data</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Successful checkout with different customer data",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Successful checkout with different customer data",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Successful checkout with different customer data",
+            "result": {
+              "duration": 3902,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Successful checkout with different customer data</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Validation error during checkout",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Validation error during checkout",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Validation error during checkout",
+            "result": {
+              "duration": 3568,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Validation error during checkout</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Validation error during checkout",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Validation error during checkout",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Validation error during checkout",
+            "result": {
+              "duration": 3436,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Validation error during checkout</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioFeature: SauceDemo checkout flow;Scenario Outline: Validation error during checkout",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Scenario Outline: Validation error during checkout",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1:0"
+            },
+            "name": "Scenario Outline: Validation error during checkout",
+            "result": {
+              "duration": 3602,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario Outline: Validation error during checkout</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Feature: SauceDemo checkout flow",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {},
+      "browser": {
+        "name": "unknown",
+        "version": "unknown"
+      },
+      "device": "Windows 11",
+      "platform": {
+        "name": "windows",
+        "version": "unknown"
+      }
+    },
+    "name": "Feature: SauceDemo checkout flow",
+    "runInfo": {
+      "endTime": "2025-12-10T21:57:48.693Z",
+      "passed": 7,
+      "startTime": "2025-12-10T21:57:19.773Z",
+      "testCount": 7,
+      "userAgents": [
+        "Microsoft Edge 142.0.0.0 / Windows 11"
+      ],
+      "warnings": []
+    },
+    "skipped": false,
+    "tags": [],
+    "uri": "C:\\Users\\haris\\Downloads\\aaa-life-sdet-bdd-final-project\\bdd\\ui\\features\\saucedemo-ui.feature:1"
+  }
+]
